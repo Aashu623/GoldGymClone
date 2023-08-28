@@ -6,7 +6,7 @@
     scroll-behavior: smooth;
 }
 body{
-    background: url(/img/main.jpg) no-repeat center;
+    background: url(./img/main.jpg) no-repeat center;
     background-size: cover;
     position: relative;
     height: max-content;
@@ -819,7 +819,7 @@ body{
         opacity: 1;  
     } */
     #footer{
-        background: url(img/footer.jpg) center no-repeat ;
+        background: url(./img/footer.jpg) center no-repeat ;
         background-size: cover;
         .footer-container{
             /* padding: 1rem; */
